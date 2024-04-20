@@ -1,7 +1,8 @@
 # Notes
 
 ## GATE
-- [Discrete Maths in one shot](https://knowledgegatecoding.github.io/GATE-Notes/DM%20GATE%20Notes.pdf)
+- [DM (Discrete Maths) in one shot](https://knowledgegatecoding.github.io/GATE-Notes/DM%20GATE%20Notes.pdf)
+- [DBMS (Database Management System) in one shot](https://knowledgegatecoding.github.io/GATE-Notes/DBMS%20GATE%20Notes.pdf)
 
 ## University Exams
 - [Complete DM Discrete Maths in one shot](https://knowledgegatecoding.github.io/SingleShot_UniversityExamSeries_Notes/DM%20in%205%20hours.pdf)
