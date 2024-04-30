@@ -16,3 +16,4 @@
 - [Complete CN Computer Networks in one shot](https://knowledgegatecoding.github.io/SingleShot_UniversityExamSeries_Notes/CN%20in%205%20hours.pdf)
 - [Complete DBMS Data Base Management System in one shot](https://knowledgegatecoding.github.io/SingleShot_UniversityExamSeries_Notes/DBMS%20in%205%20hours.pdf)
 - [Complete Operating System in one shot](https://knowledgegatecoding.github.io/SingleShot_UniversityExamSeries_Notes/OS%20in%206%20hours.pdf)
+- [Complete Artificial Intelligence in one shot](https://knowledgegatecoding.github.io/SingleShot_UniversityExamSeries_Notes/AI%20in%206%20Hours.pdf)
